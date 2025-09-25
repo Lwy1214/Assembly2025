@@ -699,12 +699,12 @@ _start:
 
 
 
-# **문제5**
+
 5. Listing File for AddTwoSum
 Generate a listing file for the AddTwoSum program and write a description of the machine code
 bytes generated for each instruction. You might have to guess at some of the meanings of the
 byte values
-# **5. AddTwoSum 프로그램의 리스팅 파일 생성**
+# **문제5. AddTwoSum 프로그램의 리스팅 파일 생성**
 AddTwoSum 프로그램의 리스팅 파일을 생성하고, 각 명령어에 대해 생성된 기계어 바이트에 대한 설명을 작성하십시오. 일부 바이트 값의 의미를 추측해야 할 수도 있습니다.
 
 ## **1.AddTwoSum.asm 프로그램 (참고)**
@@ -765,6 +765,11 @@ end main
     - `FF 15 ?? ?? ?? ??` : 메모리 주소에 있는 ExitProcess 함수 호출
 
 # **문제 6**
+6. AddVariables Program
+ Modify the AddVariables program so it uses 64-bit variables. Describe the syntax errors gener
+ated by the assembler and what steps you took to resolve the errors
+6. AddVariables 프로그램
+AddVariables 프로그램을 수정하여 64비트 변수를 사용하도록 하십시오. 어셈블러에서 생성된 구문 오류와 해당 오류를 해결하기 위해 취한 조치를 설명하십시오.
 
 ## **1. 원래 프로그램 (참고)**
 
