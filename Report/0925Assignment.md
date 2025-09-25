@@ -438,7 +438,7 @@ val1 DWORD 87654321h
 
 ## 📘 3.1.0 Programming Exercises
 
-### **문제 1. Integer Expression Calculation**
+# **문제 1. Integer Expression Calculation**
 
 > **AddTwo 프로그램(3.2절 예제)**를 참고하여, 레지스터를 사용해 다음 수식을 계산하는 프로그램을 작성하시오.
 > 
@@ -512,7 +512,7 @@ end main
     
 - 최종 결과: **EAX = 10**
 
-### **문제 2. Symbolic Integer Constants**
+# **문제 2. Symbolic Integer Constants**
 
 > 일주일의 7일을 모두 기호 상수(symbolic constants)로 정의하시오.
 > 
@@ -575,7 +575,7 @@ end main
 
 ```
 
-### **문제 3. Data Definitions**
+# **문제 3. Data Definitions**
 
 > Table 3-2의 모든 데이터 타입을 정의하고, 각 타입에 맞는 값으로 초기화하시오.
 > 
@@ -706,7 +706,8 @@ bytes generated for each instruction. You might have to guess at some of the mea
 byte values
 # **5. AddTwoSum 프로그램의 리스팅 파일 생성**
 AddTwoSum 프로그램의 리스팅 파일을 생성하고, 각 명령어에 대해 생성된 기계어 바이트에 대한 설명을 작성하십시오. 일부 바이트 값의 의미를 추측해야 할 수도 있습니다.
-**1.AddTwoSum.asm 프로그램 (참고)**
+
+## **1.AddTwoSum.asm 프로그램 (참고)**
 
 ```nasm
 ; AddTwoSum.asm - Chapter 3 example.
