@@ -1,4 +1,5 @@
 
+
 <img width="1034" height="590" alt="스크린샷 2025-10-16 091528" src="https://github.com/user-attachments/assets/8d84e0da-a5fc-4154-9c8d-f2eb6b4ac642" />
 
 # 중간고사문제 64비트 레지스터에 대해 기술하시오
@@ -19,3 +20,12 @@ EAX (32비트)
 
 ## MOVSX
 최상위 비트에 따라서 앞의숫자가 채워짐 
+
+✅ 요약
+- CF: 자리올림/내림
+- ZF: 결과가 0
+- SF: 결과가 음수
+- OF: 부호 있는 overflow
+- PF: 짝수 패리티
+- AF: BCD용 자리올림
+
