@@ -7,3 +7,6 @@ cmp : 비교 연산
 jz: ZF=1이면 jump 
 jnz: ZF=0이면 jump
 <img width="806" height="499" alt="image" src="https://github.com/user-attachments/assets/13054c56-afea-4e83-a5b2-f51e374487d1" />
+
+수업과제
+<img width="1890" height="973" alt="image" src="https://github.com/user-attachments/assets/a7691431-6ca7-46f3-857d-39323bee7b0a" />
