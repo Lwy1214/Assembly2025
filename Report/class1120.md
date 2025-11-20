@@ -1,4 +1,4 @@
-실행코드
+따로만들어본 Arraysum 실행코드
 ```
 INCLUDE Irvine32.inc
 
@@ -49,14 +49,14 @@ main PROC
 main ENDP
 END main
 ```
-수업과제
+수업과제 (틀림)
 <img width="1311" height="805" alt="image" src="https://github.com/user-attachments/assets/cd570e5c-026c-4664-a084-a5ec598a8b27" />
 
-과제 안에 있는 코드들
+과제 안에 있는 코드들(정답)
 
 <img width="1802" height="787" alt="image" src="https://github.com/user-attachments/assets/6b13df39-eb7c-4b7f-9f29-7eb66f6cd99a" />
 
-## Displaysum.asm
+## DisplaySum.asm
 ```
 ; DisplaySum Procedure (_display.asm)
 INCLUDE Irvine32.inc
@@ -87,7 +87,7 @@ DisplaySum ENDP
 END
 ```
 
-## Arraysum.asm
+## ArraySum.asm
 ```
 ; ArraySum Procedure (_arrysum.asm)
 INCLUDE Irvine32.inc
@@ -123,7 +123,7 @@ ArraySum ENDP
 END
 ```
 
-## Promptforintegers.asm
+## PromptForIntegers.asm
 ```
 
 INCLUDE Irvine32.inc
@@ -162,7 +162,7 @@ PromptForIntegers ENDP
 END
 ```
 
-## Summain.asm
+## Sum_main.asm
 ```
 ; Integer Summation Program (Sum_main.asm)
 ; Multimodule example:
