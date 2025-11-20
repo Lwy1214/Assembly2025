@@ -1,4 +1,5 @@
 실행코드
+```
 INCLUDE Irvine32.inc
 
 .data 
@@ -47,6 +48,6 @@ main PROC
     INVOKE ExitProcess,0
 main ENDP
 END main
-
+```
 수업과제
 <img width="1311" height="805" alt="image" src="https://github.com/user-attachments/assets/cd570e5c-026c-4664-a084-a5ec598a8b27" />
