@@ -226,6 +226,7 @@ Array Sum (GCC style): 150
         (`-L.` 은 현재 디렉토리에서 라이브러리를 찾으라는 의미, `-larraysum` 은 `libarraysum.a`를 링크하라는 의미)
 
 <img width="603" height="371" alt="image" src="https://github.com/user-attachments/assets/f51c19d2-421d-4938-b1dc-b9611d3fd590" />
+
 - → `main.exe` 또는 `main` 실행 파일 안에 라이브러리 코드가 **직접 포함**됩니다.
     - **특징**
     - 실행 파일이 커짐 (라이브러리 코드가 합쳐지므로).
